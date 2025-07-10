@@ -1,0 +1,11 @@
+Doctor_ID,Specialty,Region,Prescriptions,Value,Frequency,Last_Visit_Date
+D001,General Practitioner,North,45,22000,Weekly,2025-06-28
+D002,Cardiologist,West,12,9500,Monthly,2025-05-20
+D003,Dermatologist,South,28,14000,Biweekly,2025-06-05
+D004,Pediatrician,East,5,4000,Monthly,2025-03-18
+D005,Orthopedic,North,38,18000,Weekly,2025-06-22
+D006,Neurologist,South,9,8700,Quarterly,2025-02-11
+D007,General Practitioner,West,50,26000,Weekly,2025-07-01
+D008,Cardiologist,East,22,11000,Biweekly,2025-06-15
+D009,Dermatologist,North,7,3600,Monthly,2025-04-29
+D010,Pediatrician,South,31,15000,Biweekly,2025-06-20
