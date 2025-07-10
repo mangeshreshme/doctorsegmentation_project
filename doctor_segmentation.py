@@ -109,4 +109,6 @@ plt.ylabel('')
 plt.show()
 plt.savefig("pie chart")
 
+df.to_csv('Segmented_doctor.csv',index=False)
+
 
